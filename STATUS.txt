@@ -1,1 +1,1 @@
-Static files uploaded; binary assets are next.
+Binary assets committed. Final cleanup and GitHub Pages setup pending.
