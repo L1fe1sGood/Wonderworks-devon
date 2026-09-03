@@ -1,0 +1,8 @@
+Wonderworks — QA
+
+Основна локальна база: Wonderworks_Final_Review_v6_FIXED, перейменована у Wonderworks.
+
+GitHub Pages test URL:
+https://l1fe1sgood.github.io/Wonderworks-devon/socials.html
+
+QR у публічній тестовій копії повинен вести саме на цю адресу.
