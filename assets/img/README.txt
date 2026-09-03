@@ -1,1 +1,0 @@
-Wonderworks image assets.

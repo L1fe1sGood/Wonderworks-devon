@@ -1,1 +1,0 @@
-This repository uses a QR image generated for the GitHub Pages test URL.
