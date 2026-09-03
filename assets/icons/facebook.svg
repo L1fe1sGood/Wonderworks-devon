@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Facebook">
+  <rect width="64" height="64" rx="16" fill="#1877f2"/>
+  <path d="M36 52V34h6l1-7h-7v-4.3c0-2 .6-3.4 3.5-3.4H43V13a46 46 0 0 0-5.3-.3c-5.3 0-8.9 3.2-8.9 9.2V27H23v7h5.8v18H36z" fill="#fff"/>
+</svg>
