@@ -5,12 +5,12 @@
   --panel-bottom:#eddfed;
   --surface:#fdf9f4;
   --surface-hover:#fffdfa;
-  --text:#2f2733;
-  --muted:#766c7a;
+  --text:#000;
+  --muted:#000;
   --page-width:520px;
   --page-height:840px;
   --radius:28px;
-  --font-ui:"Manrope",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  --font-ui:"Source Sans 3",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
 }
 
 *{box-sizing:border-box}
@@ -77,14 +77,14 @@ img{display:block;max-width:100%}
 
 .brand__name{
   margin:0;
-  line-height:0;
   display:flex;
   justify-content:center;
-}
-
-.brand__wordmark{
-  width:min(100%,456px);
-  height:auto;
+  color:var(--text);
+  font-size:64px;
+  font-weight:700;
+  line-height:1.05;
+  letter-spacing:-1px;
+  white-space:nowrap;
 }
 
 .brand__subtitle{
@@ -109,7 +109,7 @@ img{display:block;max-width:100%}
     margin-bottom:12px;
     border-radius:20px;
   }
-  .brand__wordmark{width:min(96%,430px)}
+  .brand__name{font-size:clamp(38px,11vw,64px)}
   .brand__subtitle{
     margin-top:10px;
     font-size:clamp(1.12rem,4.7vw,1.34rem);
