@@ -81,18 +81,18 @@ img{display:block;max-width:100%}
   justify-content:center;
   color:var(--text);
   font-size:64px;
-  font-weight:700;
+  font-weight:400;
   line-height:1.05;
-  letter-spacing:-1px;
+  letter-spacing:-0.6px;
   white-space:nowrap;
 }
 
 .brand__subtitle{
-  margin:10px 0 0;
+  margin:12px 0 0;
   color:var(--muted);
-  font-size:1.28rem;
+  font-size:26px;
   font-weight:500;
-  line-height:1.28;
+  line-height:1.22;
 }
 
 @media(max-width:560px){
@@ -111,15 +111,14 @@ img{display:block;max-width:100%}
   }
   .brand__name{font-size:clamp(38px,11vw,64px)}
   .brand__subtitle{
-    margin-top:10px;
-    font-size:clamp(1.12rem,4.7vw,1.34rem);
+    font-size:clamp(21px,5.5vw,26px);
   }
 }
 
 @media(max-width:380px){
   .page-shell{padding-inline:14px}
   .brand__logo-wrap{width:min(90vw,380px)}
-  .brand__subtitle{font-size:1.08rem}
+  .brand__subtitle{font-size:21px}
 }
 
 @media(prefers-reduced-motion:reduce){
