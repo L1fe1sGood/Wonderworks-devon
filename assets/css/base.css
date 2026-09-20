@@ -118,7 +118,7 @@ img{display:block;max-width:100%}
 @media(max-width:380px){
   .page-shell{padding-inline:14px}
   .brand__logo-wrap{width:min(90vw,380px)}
-  .brand__subtitle{font-size:22пшpx}
+  .brand__subtitle{font-size:22px}
 }
 
 @media(prefers-reduced-motion:reduce){
